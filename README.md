@@ -23,3 +23,6 @@ Once you click search, the next page will load which shows the songs, albums, an
 
 You can then scroll down and look at the three latest news sources posted about this artist, as shown below <br>
 ![Image of deployed application](./assets/Images/news.PNG)
+
+
+Link to deployed application: https://beccadoan.github.io/tunes_and_tribunes/
